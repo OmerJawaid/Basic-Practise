@@ -48,5 +48,8 @@
     <ClCompile Include="Prime number in range and nth.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Armstrong number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
