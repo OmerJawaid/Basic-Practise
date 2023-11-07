@@ -128,11 +128,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Area of shapes.cpp" />
-    <ClCompile Include="Armstrong number.cpp" />
+    <ClCompile Include="Username Validation.cpp" />
     <ClCompile Include="Average using function.cpp" />
     <ClCompile Include="Count Vowel and Constants.cpp" />
     <ClCompile Include="Fabonacci Series.cpp" />
     <ClCompile Include="Factorial using Function.cpp" />
+    <ClCompile Include="Hexadecimal .cpp" />
     <ClCompile Include="Leap year using function.cpp" />
     <ClCompile Include="Leap year.cpp" />
     <ClCompile Include="Matrix.cpp" />

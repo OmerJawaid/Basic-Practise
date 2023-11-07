@@ -48,7 +48,10 @@
     <ClCompile Include="Prime number in range and nth.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Armstrong number.cpp">
+    <ClCompile Include="Username Validation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Hexadecimal .cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
