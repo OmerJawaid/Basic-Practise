@@ -54,5 +54,14 @@
     <ClCompile Include="Hexadecimal .cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="String compression.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Fizz Buzz.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Palidrome string check.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
